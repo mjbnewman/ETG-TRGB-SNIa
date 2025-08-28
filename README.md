@@ -1,5 +1,5 @@
 # ETG-TRGB-SNIa
-This is the publicly available repository that contains the code for our SN Ia cosmology analysis reported in the manuscript Newman et al. (2025, in prep.).
+This is the publicly available repository that contains the code for our SN Ia cosmology analysis reported in the manuscript https://arxiv.org/abs/2508.20023 (submitted to ApJ).
 
 The analysis code is in the notebook `unblinded_analysis.ipynb`
 
